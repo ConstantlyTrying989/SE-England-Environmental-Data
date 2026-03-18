@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2026-03-18T12:15:07.600782",
+    "region": "South East England",
+    "temperature": 15.5,
+    "humidity": 65,
+    "pressure": 1013,
+    "wind_speed": 8.5,
+    "description": "Partly cloudy"
+  }
+]

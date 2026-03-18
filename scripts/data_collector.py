@@ -2,8 +2,8 @@ import json
 from datetime import datetime
 from pathlib import Path
 import pandas as pd
+import requests
 from config.settings import RAW_DATA_DIR, REGION_NAME, REGION_LAT, REGION_LON, WEATHER_API_KEY
-
 class EnvironmentalDataCollector:
     """Collects environmental data for South East England"""
     
